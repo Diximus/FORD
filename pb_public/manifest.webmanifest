@@ -1,0 +1,10 @@
+{
+  "name": "Автожурнал",
+  "short_name": "Автожурнал",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070d1d",
+  "theme_color": "#070d1d",
+  "lang": "ru",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
